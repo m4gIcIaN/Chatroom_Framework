@@ -3,6 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.ServerSocket;
 
+// Creates a server for the chatroom to run on
 public class Server {
 
     public Server(int port){

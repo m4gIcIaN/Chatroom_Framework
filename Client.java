@@ -4,6 +4,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 
+// Creates a Client that connects to a user and allows for messaging
 public class Client extends Thread{
 
     private Socket socket;

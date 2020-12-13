@@ -5,6 +5,8 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
+// Connection CLass
+// Intreprets Input from the users
 public class Connection {
 
     private static Scanner input = new Scanner(System.in);
